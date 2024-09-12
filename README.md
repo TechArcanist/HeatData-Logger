@@ -1,7 +1,7 @@
 # HeatData-Logger 🌡️📊
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=HeatData-Logger!+🌡️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=HeatData-Logger!+🌡️;&color=6c757d" />
 </h1>
 
 ## Features
@@ -61,5 +61,6 @@ https://github.com/user-attachments/assets/cc59367c-2715-4e4f-800e-6670a6c96f2a
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;&color=6c757d" />
 </h1>
+
