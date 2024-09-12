@@ -12,15 +12,14 @@
 
 ## Components Used
 - Contactless Temperature Sensor (e.g., MLX90614)
-- Microcontroller (e.g., Arduino, ESP32)
-- Wi-Fi Module (for data upload)
+- ESP32
 - Spreadsheet Integration Tool (e.g., Google Sheets API)
 - Jumper Wires
 - Power Supply
 
 ## How It Works
 
-The contactless temperature sensor captures temperature data, which is then processed by the microcontroller. The temperature readings are automatically uploaded to a spreadsheet using an integration tool. Users can view and analyze the data in real-time through the spreadsheet interface.
+The contactless temperature sensor captures temperature data, which is then processed by the microcontroller. The temperature readings are automatically uploaded to a spreadsheet using google sheets library. Users can view and analyze the data in real-time through the spreadsheet interface.
 
 ## Installation
 Clone the repository:
@@ -48,7 +47,8 @@ Upload the code:
 ![Circuit Diagram](circuit-diagram.png)  <!-- Add your actual circuit diagram image -->
 
 ## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  <!-- Add your actual video ID -->
+
+https://github.com/user-attachments/assets/cc59367c-2715-4e4f-800e-6670a6c96f2a
 
 ## Developed by
 **Lavitra Sahu**. Contributions are welcome!
