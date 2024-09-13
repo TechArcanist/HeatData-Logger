@@ -44,7 +44,12 @@ Upload the code:
 - Access the spreadsheet for real-time data monitoring and analysis.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit-diagram.png)  <!-- Add your actual circuit diagram image -->
+
+![diagram_page-0001 (1)](https://github.com/user-attachments/assets/237eef9a-ee3a-4c6e-86a0-174a2c9aa869)
+
+Note: While I didn't include RFID in this final project, I did test the setup on a breadboard, and it was fully functional with RFID. Feel free to use my diagram for future contributions or implementations.
+
+Let me know if this works for you!
 
 ## Video Demonstration
 
