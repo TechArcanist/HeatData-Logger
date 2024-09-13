@@ -17,7 +17,7 @@
 #define SMTP_SERVER "smtp.gmail.com"
 #define SMTP_PORT 465
 #define SENDER_EMAIL "printfatafat.corp@gmail.com"
-#define SENDER_PASSWORD "oekojnnuhruccemk"
+#define SENDER_PASSWORD "xxxxxxxxxxxxxxxxxxxx"
 #define RECIPIENT_EMAIL "techpsit43@gmail.com"
 #define RECIPIENT_NAME "THERMOMETER GUN"
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
