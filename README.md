@@ -45,7 +45,7 @@ Upload the code:
 
 ## Circuit Diagram
 
-![diagram_page-0001 (1)](https://github.com/user-attachments/assets/237eef9a-ee3a-4c6e-86a0-174a2c9aa869)
+![diagram_page-0001 (1) (1)](https://github.com/user-attachments/assets/5dc26d39-ae7d-49db-af1f-029e2294c817)
 
 Note: While I didn't include RFID in this final project, I did test the setup on a breadboard, and it was fully functional with RFID. Feel free to use my diagram for future contributions or implementations.
 
